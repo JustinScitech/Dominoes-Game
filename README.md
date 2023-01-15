@@ -18,9 +18,6 @@ This game makes use of several object-oriented programming techniques to ensure 
 ## Contributing to the Project
 If you would like to contribute to the project, feel free to create a pull request. Before doing so, please make sure that all documentation is present for any changes. We welcome any contributions that can help make the game more exciting, efficient or user-friendly.
 
-## Documentation
-The documentation is currently a work in progress. 
-
 ## :hammer_and_wrench: Contributing to the project
 If you would like to contribute to the project, feel free to create a pull request. Make sure that all documentation is present for any changes.  
 ## :scroll: License
