@@ -1,4 +1,4 @@
-# Dominoes-Game
+# 🁻 Dominoes-Game 🁻
 
 Welcome to the Dominoes-Game GitHub repository! This is a two-player console-based Dominoes game developed using Python, and it stores player data including losses, wins, and games played locally in a JSON file. Whether you're a seasoned player or new to the game, Dominoes-Game is the perfect way to experience the excitement and strategy of one of the world's most popular games.
 
