@@ -15,9 +15,6 @@ Welcome to my Dominoes Game! This is a two-player console-based Dominoes game de
 
 This game makes use of several object-oriented programming techniques to ensure an efficient and user-friendly experience. The game is built using classes, objects, and encapsulation to ensure that all data is stored and processed securely. Additionally, the game utilizes inheritance and polymorphism to ensure that all classes are organized and easy to understand.
 
-## Contributing to the Project
-If you would like to contribute to the project, feel free to create a pull request. Before doing so, please make sure that all documentation is present for any changes. We welcome any contributions that can help make the game more exciting, efficient or user-friendly.
-
 ## :hammer_and_wrench: Contributing to the project
 If you would like to contribute to the project, feel free to create a pull request. Make sure that all documentation is present for any changes.  
 ## :scroll: License
